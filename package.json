@@ -1,0 +1,18 @@
+{
+  "name": "compdfkit-web-example-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@compdfkit_pdf_sdk/webviewer": "^2.2.2",
+    "next": "14.2.5",
+    "pspdfkit": "^2024.4.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
